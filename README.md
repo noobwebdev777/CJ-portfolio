@@ -1,1 +1,1 @@
-run "npm start" in the terminal. 😊
+this is my personal portfolio project
